@@ -1,4 +1,4 @@
-name             "snort"
+name             'snort'
 maintainer       'Sous Chefs'
 maintainer_email 'help@sous-chefs.org'
 license          'Apache-2.0'
